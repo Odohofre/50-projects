@@ -26,7 +26,8 @@ body {
   background-repeat: no-repeat;
   height: 80vh;
   border-radius: 50px;
-  color: rgb(122, 141, 12);
+  color: #EF8800ff;
+  text-shadow: 1px 0.5px #180E0Cff;
   cursor: pointer;
   flex: 0.6;
   margin: 10px;
@@ -35,7 +36,7 @@ body {
 }
 
 .panel h3 {
-  font-size: 18px;
+  font-size: 20px;
   /* background-color: #1c7293ff; */
   position: absolute;
   bottom: 20px;
