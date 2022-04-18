@@ -93,9 +93,9 @@ nav ul a {
 }
 
 nav.active .icon .line1 {
-  transform: rotate(-45deg) translateY(5.5px);
+  transform: rotate(-405deg) translateY(5.5px);
 }
 
 nav.active .icon .line2 {
-  transform: rotate(45deg) translateY(-5.5px);
+  transform: rotate(405deg) translateY(-5.5px);
 }
