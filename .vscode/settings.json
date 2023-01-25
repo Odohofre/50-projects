@@ -11,5 +11,6 @@
   "editor.tabSize": 2,
   "files.autoSave": "afterDelay",
   "editor.fontSize": 15,
-  "editor.detectIndentation": false
+  "editor.detectIndentation": false,
+  "liveServer.settings.port": 5501
 }
